@@ -1,0 +1,18 @@
+[
+{"type":"header","version":"5.1.3","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"quote"},
+{"type":"table","name":"quote","database":"quote","data":
+[
+{"quote_id":"1","quote":"Love breads discipline"},
+{"quote_id":"2","quote":"Focus life is a rewarding life"},
+{"quote_id":"3","quote":"Concentration is the key to success"},
+{"quote_id":"4","quote":"Concentration is the ability to keep awareness on one thing at a time"},
+{"quote_id":"5","quote":"With concentration and willpower, you can accomplish anything in life"},
+{"quote_id":"6","quote":"Stop multi-tasking"},
+{"quote_id":"7","quote":"Simplify your life"},
+{"quote_id":"8","quote":"You are doing too much, Simplify your life"},
+{"quote_id":"9","quote":"Life is finite"},
+{"quote_id":"10","quote":"Death is the greatest impetus for living a focused life"}
+]
+}
+]
